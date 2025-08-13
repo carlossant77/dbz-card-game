@@ -1,6 +1,11 @@
-# dbz-card-game
+# DBZ Card Game
 ---
-Jogo de cartas online baseado em "Pokemon TCG" com inspiração em personagens de "Dragon Ball".
+Este repositório contém um jogo de cartas online baseado em "Pokemon TCG" com inspiração em personagens de "Dragon Ball". Construído permite jogabilidade e interação em tempo real através do **microframework Flask**
+
+# Demonstração Visual
+![seleção](static/assets/selecao.png)
+![jogabilidade](static/assets/jogo.png)
+![carta](static/assets/carta.png)
 
 Tecnologias Utilizadas: HTML, CSS, Javascript, Python/SocketIO
 
