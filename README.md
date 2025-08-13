@@ -22,7 +22,7 @@ Este repositório contém um jogo de cartas online baseado em "Pokemon TCG" com 
 O jogo pode ser testado e utilizado através: [Deste Link](https://dbz-card-game.onrender.com)
 
 # Link de Download
-O jogo pode ser baixado e testado, para implementação de melhorias ou fins educacionais através [deste link](https://downgit.github.io/#/home?url=https://github.com/carlossant77/dbz-card-game)
+O jogo pode ser baixado e testado, para implementação de melhorias ou fins educacionais através: [Deste Link](https://downgit.github.io/#/home?url=https://github.com/carlossant77/dbz-card-game)
 
 # Comentários do Autor
 O jogo pode ser jogado localmente através do servidor python em duas abas diferentes do navegador, ou inicializada no ngrok para que o jogo seja compartilhado entre duas máquinas diferentes.
