@@ -17,6 +17,7 @@ Este repositório contém um jogo de cartas online baseado em "Pokemon TCG" com 
 # Pré-Requisitos ⚙ 
 - Python instalado na máquina.
 - Biblioteca Flask instalada.
+- Biblioteca Socket.IO Instalada.
 
 # Demonstração do Jogo 🎮
 O jogo pode ser testado e utilizado através: [Deste Link](https://dbz-card-game.onrender.com)
