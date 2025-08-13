@@ -7,8 +7,18 @@ Este repositório contém um jogo de cartas online baseado em "Pokemon TCG" com 
 ![jogabilidade](static/assets/jogo.png)
 ![carta](static/assets/carta.png)
 
-Tecnologias Utilizadas: HTML, CSS, Javascript, Python/SocketIO
+# Tecnologias Utilizadas
+- **HTML:** Estruturação do Jogo de Cartas
+- **CSS:** Estilização, animações e interações com o usuário
+- **Javascript:** Criação da lógica de combate, animações e dinamização do jogo
+- **Python:** Linguagem utilizada para criação da aplicação
+- **SocketIO:** Microframework utilizado para inicializar o servidor, realizar as interações entre sistema e usuário e entre os usuários, e navegação por rotas
 
-Link da Aplicação: https://dbz-card-game.onrender.com
+# Pré-Requisitos
+- Python instalado na máquina.
+- Biblioteca Flask instalada.
 
-OBSERVAÇÃO 07/08/25 - Jogo funciona corretamente localmente e com ngrok, porém, ainda tem problemas no funcionamento no render. Em correção.
+# Demonstração do Jogo
+O jogo pode ser testado e utilizado através: [Deste Link](https://dbz-card-game.onrender.com)
+
+**OBSERVAÇÃO 07/08/25** - Jogo funciona corretamente localmente e com ngrok, porém, ainda tem problemas no funcionamento no render. Em correção.
